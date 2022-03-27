@@ -1,0 +1,18 @@
+.timer {
+  display: grid;
+  place-content: center;
+  place-items: center;
+}
+
+.btn {
+  padding: 10px;
+  font-weight: bold;
+}
+.list {
+  display: flex;
+  column-gap: 10px;
+}
+.pokemon {
+  border: 1px solid red;
+  padding: 10px;
+}
